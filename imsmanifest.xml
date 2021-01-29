@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">Learning Analytics Report</langstring>
+          <langstring xml:lang="x-none">ETEC565A Task2B Dashboard</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="Learning_Analytics_Report_ORG">
-    <organization identifier="Learning_Analytics_Report_ORG">
-      <title>Learning Analytics Report</title>
+  <organizations default="ETEC565A_Task2B_Dashboard_ORG">
+    <organization identifier="ETEC565A_Task2B_Dashboard_ORG">
+      <title>ETEC565A Task2B Dashboard</title>
       <item identifier="Learning_Analytics_Report_SCO" isvisible="true" identifierref="__5dW9Qqrp672_course_id_RES">
-        <title>Learning Analytics Report</title>
+        <title>ETEC565A Task2B Dashboard</title>
       </item>
     </organization>
   </organizations>
